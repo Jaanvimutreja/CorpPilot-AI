@@ -20,3 +20,129 @@ body {
   background: #d5e8df;
   color: #173f3d;
 }
+.mentor-markdown p {
+  margin: 0.85rem 0;
+  line-height: 1.85;
+}
+
+.mentor-markdown h1,
+.mentor-markdown h2,
+.mentor-markdown h3,
+.mentor-markdown h4 {
+  color: #18242D;
+  font-weight: 650;
+  margin-top: 1.6rem;
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
+}
+
+.mentor-markdown h1 { font-size: 1.5rem; }
+.mentor-markdown h2 { font-size: 1.25rem; }
+.mentor-markdown h3 { font-size: 1.1rem; }
+.mentor-markdown h4 { font-size: 1rem; }
+
+.mentor-markdown strong {
+  font-weight: 650;
+  color: #18242D;
+}
+
+.mentor-markdown ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+}
+
+.mentor-markdown ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+}
+
+.mentor-markdown li {
+  margin: 0.5rem 0;
+  padding-left: 0.2rem;
+}
+
+.mentor-markdown blockquote {
+  border-left: 3px solid #438078;
+  background: #F0F5F1;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+
+.mentor-markdown table {
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  max-width: 100%;
+  margin: 1.25rem 0;
+  font-size: 0.9rem;
+}
+
+.mentor-markdown th,
+.mentor-markdown td {
+  border: 1px solid #DDE3DD;
+  padding: 0.8rem 1rem;
+  text-align: left;
+}
+
+.mentor-markdown th {
+  background: #E8F1ED;
+  font-weight: 600;
+}
+
+.mentor-markdown code {
+  background: #E8EDE8;
+  border-radius: 4px;
+  padding: 2px 5px;
+  font-size: 0.9em;
+}
+
+.mentor-markdown pre {
+  background: #F0F3EF;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.mentor-markdown a {
+  color: #39776D;
+  text-decoration: underline;
+}
+
+.mentor-markdown hr {
+  border: 0;
+  border-top: 1px solid #DDE3DD;
+  margin: 1.5rem 0;
+}
+
+.mentor-markdown > :first-child {
+  margin-top: 0;
+}
+
+.mentor-markdown > :last-child {
+  margin-bottom: 0;
+}
+
+
+.mentor-markdown {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.mentor-markdown p {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.mentor-markdown h1 { font-size: 25px; }
+.mentor-markdown h2 { font-size: 22px; }
+.mentor-markdown h3 { font-size: 19px; }
+
+.mentor-markdown li {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
