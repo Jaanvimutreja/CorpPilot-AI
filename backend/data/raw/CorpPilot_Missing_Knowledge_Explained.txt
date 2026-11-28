@@ -1,0 +1,285 @@
+CORPPILOT AI — SUPPLEMENTARY WORKPLACE KNOWLEDGE BASE
+Version: 1.0 | Prepared: 2026-11-21 | Language: English
+Audience: Students, interns, fresh graduates, early-career professionals (India-first, with general workplace guidance)
+
+IMPORTANT SOURCE AND RELIABILITY NOTICE
+This is NEWLY AUTHORED explanatory content, NOT a transcription of the uploaded GitLab PDFs. It is intended to fill subject gaps in the CorpPilot corpus. It is not an employer's policy, legal opinion, or guarantee of entitlements. General practical recommendations are explicitly marked [GUIDANCE]. Specific India-law facts are marked [OFFICIAL SOURCE] with an exact source ID and URL. Where rules vary by employer, contract, role, location, date, or employment classification, this is stated explicitly. Examples are illustrative and not real employee cases. Review legal sections periodically and verify the current state rules and notifications before deployment.
+
+SOURCE REGISTER — OFFICIAL DOCUMENTS
+[S1] Ministry of Labour & Employment, Labour Codes, official codes, rules, notifications and FAQs: https://www.labour.gov.in/offerings/schemes-and-services/details/labour-codes-gzNzQzMtQWa
+[S2] Government of India, Gazette notification on commencement of Code on Wages provisions, 21 November 2025: https://www.labour.gov.in/static/uploads/2025/12/0fd090d29a4576739079a7b565c8ca9d.pdf
+[S3] Ministry of Labour & Employment, letter on Social Security Code implementation, dated 29 January 2026: https://www.labour.gov.in/static/uploads/2026/03/d70bb9f7e87ec48bd64fde40329f9c09.pdf
+[S4] India Code, Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013: https://www.indiacode.nic.in/bitstream/123456789/19302/1/sexual_harrassment_of_women_at_workplace_act_2013.pdf
+[S5] India Code, Code on Wages, 2019: https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf
+[S6] Income Tax Department, Salaried Individuals (forms including Form 16): https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1
+[S7] Income Tax Department, TDS Compliance FAQs and 2026 transition: https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/tds-compliance-faq
+[S8] Employees' Provident Fund Organisation, employer resources and contribution-rate documents: https://www.epfindia.gov.in/site_en/For_Employers.php/Disablitity.php
+[S9] Ministry of Labour & Employment, Additional FAQs on Labour Codes: https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf?v=20260620082854
+[S10] Ministry of Labour & Employment, Labour Codes FAQs (November 2026): https://www.labour.gov.in/static/uploads/2026/11/da640b1558a315e81e22ce5ac12f463f.pdf
+
+CITATION POLICY FOR THE FUTURE RAG SYSTEM
+- A source ID supports ONLY the particular legal/administrative statement associated with it; it does not prove all surrounding advice.
+- [GUIDANCE] means an editorial recommendation authored for CorpPilot, not an assertion made by a regulator.
+- [EXAMPLE] is a fictional teaching example, not evidence of a real event or a legal precedent.
+- The earlier GitLab PDF-derived files are separate source material and are not silently cited as proof of these new entries.
+- Dates and legal applicability matter. The four Indian Labour Codes were brought into effect in November 2025, but details may depend on subsequent rules, notifications and state jurisdiction. Do not assume one universal leave/notice/benefit rule for all workers. [S1][S2][S3]
+
+================================================================
+01 — ONBOARDING, FIRST DAY, PROBATION AND BUDDY SYSTEM
+================================================================
+[GUIDANCE] Onboarding is the structured process by which a new employee gains the access, information, relationships, and skills needed to perform a role. It is broader than orientation, which may be a single introductory event. Onboarding can cover documents, IT access, security, payroll, manager expectations, project context, and workplace culture over several weeks or months.
+
+Before joining, a fresher should read the offer letter and any joining instructions, confirm the reporting date, work location or remote arrangement, required identity and banking documents, equipment policy, and point of contact. Never email passwords, OTPs, or unnecessary identity documents to unverified addresses. Confirm that requests come through official channels.
+
+On day one, understand whom you report to, how attendance or working hours are recorded, where to request help, which tools are approved, and where the employee handbook is kept. Ask for a brief overview of your team's objectives and current priorities. Do not assume access will be available immediately; report blockers promptly.
+
+During the first week, ask your manager for three concrete expectations: what to learn, what to deliver, and how progress will be assessed. A 30/60/90-day plan is a common planning technique, not a mandatory legal document. A buddy is a peer who helps with practical questions and introductions; a buddy does not replace a manager, HR, or an official grievance channel.
+
+Probation is an initial evaluation period when the organization and employee assess fit. Its duration, extension, confirmation process, and termination terms are not universal. They should be checked in the appointment letter and applicable law. Probation does not mean an employee should assume there are no workplace protections.
+
+[EXAMPLE] 'I have finished setting up the tools, but I still cannot access the project repository. Could you tell me who approves access? I can review the onboarding documentation while it is being resolved.' This demonstrates initiative without pretending work is complete.
+
+Common mistakes: staying silent about blocked access; treating the buddy as a supervisor; accepting verbal promises that conflict with the contract; sharing confidential data in personal accounts; and trying to appear knowledgeable instead of asking focused questions.
+
+Sources: [GUIDANCE] Original CorpPilot educational content. Specific probation/leave/notice rights: employer contract and applicable laws must be checked; [S1] for the legal framework.
+
+================================================================
+02 — HR POLICIES, ATTENDANCE, LEAVE, HOLIDAYS AND NOTICE PERIOD
+================================================================
+[GUIDANCE] An HR policy explains an employer's internal process. It may cover working hours, attendance, leave requests, holidays, flexible work, conduct, travel, reimbursement, data handling, and disciplinary procedures. A policy can create expectations, but it does not automatically override applicable law or the employment contract.
+
+Attendance refers to recording whether and when an employee is working. It may be tracked through an office system, approved timesheet, or project records. If a time entry is missing, report it promptly through the correction process rather than fabricating attendance. Working late does not necessarily erase a missed check-in.
+
+Leave categories may include annual/earned leave, sick leave, casual leave, parental leave, and unpaid leave. Their names and entitlements depend on the applicable law, location, employment classification, and company policy. Do not assume every private-sector employee in India has the same number of leave days. Ask HR for the applicable policy, approval procedure, carry-forward rules, and whether unused leave is payable on exit.
+
+A notice period is the time between giving a valid resignation notice and the intended last working day. The applicable period can depend on the appointment letter, standing orders, legal rules, and specific circumstances. 'Notice buyout' means payment may be accepted in place of some service, but it is not automatically available to everyone. Obtain written confirmation before planning an early exit.
+
+[EXAMPLE] 'I would like to request leave from 12 to 14 December. I will finish the client report by 11 December and share a handover note with the team. Please let me know if there is any conflict with project deadlines.'
+
+[EXAMPLE] 'My appointment letter mentions a 60-day notice period. Could HR confirm the formal resignation process, last-working-day calculation, and whether an early release is possible?' This asks for clarity without claiming a universal entitlement.
+
+A holiday calendar may include public, state, company-specific and optional holidays. Always use the calendar applicable to the office location and team. For hybrid teams, do not assume another region's holiday applies automatically.
+
+[OFFICIAL SOURCE] India has a Code on Wages and a Social Security Code within the labour-code framework. Exact rights should be determined from the current codes, rules, notifications and relevant state provisions, rather than old generic leave charts. [S1][S2][S3][S5]
+
+================================================================
+03 — SALARY, CTC, PAYSLIPS, PF, GRATUITY AND TAX
+================================================================
+[GUIDANCE] Cost to Company (CTC) is an employer's estimated annual employment cost. It may include fixed cash compensation, employer-funded benefits, and sometimes variable components. CTC is not the same as the amount transferred into the employee's bank account. Gross pay is typically the amount before specified deductions; net or take-home pay is the amount received after payroll deductions. Definitions vary across offer letters and payroll systems, so inspect the component breakdown.
+
+Typical salary components include basic pay, allowances, reimbursements, variable incentives, and employer benefit contributions. A bonus marked 'target', 'up to', or 'performance-linked' is not necessarily guaranteed. Joining bonuses may carry repayment conditions if the employee leaves early. ESOPs or stock options are not equivalent to cash salary; vesting and liquidity matter.
+
+A payslip usually shows the pay period, earnings, deductions and net pay. Review unexpected deductions against the employment agreement and payroll explanation. Preserve payslips, tax certificates, reimbursement records and official salary revision letters in a secure personal archive.
+
+Provident Fund (PF) is a social-security-related retirement savings mechanism for eligible covered employment. Applicability, wage base, contribution rates and ceilings must be checked against current EPFO guidance and the relevant scheme; do not assume every intern or contractor is automatically covered. EPFO provides official contribution-rate and employer guidance documents. [OFFICIAL SOURCE: S8][S3]
+
+Gratuity is a statutory terminal benefit in covered situations, subject to eligibility, employment type and the applicable law. It is not simply a guaranteed annual cash bonus. The Ministry's current labour-code FAQs address calculation and the transition from 21 November 2025; eligibility should be checked against the current Social Security Code and notifications, including any fixed-term employment provisions. [OFFICIAL SOURCE: S3][S10]
+
+Tax Deducted at Source (TDS) means tax withheld by the payer where the law requires it. Form 16 is a salary tax certificate supplied by an employer; the Income Tax Department describes its purpose and content. [OFFICIAL SOURCE: S6] Salary TDS rules transitioned to the Income Tax Act, 2025 for payments from 1 April 2026, as described by the Income Tax Department. Do not cite old section numbers as though they remain current without checking the relevant tax year. [OFFICIAL SOURCE: S7]
+
+[EXAMPLE] If an offer says 'CTC ₹6,00,000', the employee should ask for monthly fixed gross, variable pay conditions, employer contributions, deductions and an illustrative payslip. It would be misleading to promise ₹50,000 monthly take-home simply by dividing CTC by twelve.
+
+Common mistakes: comparing only CTC figures; assuming performance bonus is guaranteed; using outdated tax brackets; sharing payslips publicly; and treating employer PF contribution as extra cash in hand.
+
+================================================================
+04 — PERFORMANCE REVIEWS, APPRAISALS, RATINGS, PROMOTIONS AND PIP
+================================================================
+[GUIDANCE] A performance review is a structured discussion of work results, behaviors, strengths, improvement areas and future goals. Some organizations use annual cycles; others use quarterly or continuous feedback. A review is not always the same as a salary appraisal. An appraisal may lead to compensation changes, but a positive rating does not automatically guarantee a raise or promotion.
+
+KPI means Key Performance Indicator: a measurable indicator used to monitor progress. OKR means Objectives and Key Results: a framework connecting an objective with measurable results. KRA means Key Result Area: a broad responsibility or outcome area. Organizations use these differently, so ask what specifically counts as success.
+
+Prepare for a review by collecting completed deliverables, quality measures, customer or team impact, documented feedback, and examples of collaboration. Describe both the result and your contribution. If a goal changed mid-cycle, note when it changed and what was agreed. Avoid exaggerating outcomes you cannot demonstrate.
+
+A promotion typically requires evidence of sustained performance at the next level, role availability, and organizational approval. Ask for a written skill or competency rubric, examples of next-level work, and a review timeline. Career growth can also mean deeper expertise, a lateral move, or mentoring—not only a new title.
+
+PIP stands for Performance Improvement Plan. It is a formal improvement process used by some employers. A PIP may describe performance gaps, measurable targets, support offered, review dates, and possible outcomes. It does not always mean termination is inevitable, nor does it guarantee continued employment. The actual policy and contract matter.
+
+[EXAMPLE] 'I understand that the delivery quality needs improvement. Could we agree on two measurable targets, the expected quality standard, the support available, and a review date? I will send a weekly progress update.'
+
+If a rating seems unfair, ask for the specific evidence and rubric, present documented examples calmly, and use any available review or appeal process. Distinguish disagreements over expectations from discriminatory or retaliatory conduct, which may require a different channel.
+
+Sources: [GUIDANCE] Original CorpPilot educational explanations; no single official government source establishes universal corporate review cycles or PIP outcomes.
+
+================================================================
+05 — MANAGER RELATIONS, MICROMANAGEMENT AND DISAGREEMENTS
+================================================================
+[GUIDANCE] A manager normally assigns priorities, provides feedback, resolves dependencies, and evaluates work. A good working relationship benefits from clarity and timely updates rather than constant agreement. Ask about preferred communication channels, expected update frequency, escalation thresholds and decision ownership.
+
+Micromanagement refers to excessive oversight of small details, but frequent check-ins can also reflect a new employee's training stage, project risk, or compliance needs. Before labeling a situation, clarify deliverables and reporting expectations. Propose a predictable update rhythm: for example, one concise daily update and an immediate message for blockers.
+
+When priorities keep changing, document the old priority, the new request, the trade-off and the decision owner. Do not silently attempt three urgent tasks when only one can be completed. Ask: 'Given the new deadline, should I pause Task A and focus on Task B? If both remain urgent, what should be deprioritized?'
+
+Professional disagreement means challenging an idea with evidence, alternatives and awareness of constraints—not attacking a person's competence. Use a structure: shared goal, observed risk, supporting evidence, proposed alternative, and request for a decision. Once a lawful decision is made, follow it while recording relevant risks through appropriate channels.
+
+If a manager criticizes work publicly, avoid an emotional confrontation in the moment if possible. Later ask privately for specific feedback and expectations. If behavior is persistent, humiliating, discriminatory, threatening, or retaliatory, document incidents and seek the appropriate HR, ethics or formal complaint process.
+
+[EXAMPLE] 'I see why the launch date matters. My concern is that skipping testing may create customer-facing defects. Could we ship the smaller feature set this week and schedule the rest after validation?'
+
+[EXAMPLE] 'I can complete either the dashboard or the presentation by 4 PM, but not both at the required quality. Which is the higher priority?'
+
+Common mistakes: saying yes to incompatible deadlines; hiding delays; arguing about personality rather than work; assuming every manager check-in is harassment; and escalating without first documenting the actual problem, except where safety requires immediate escalation.
+
+================================================================
+06 — WORKPLACE ETIQUETTE, EMAILS, MEETINGS AND DIGITAL CONDUCT
+================================================================
+[GUIDANCE] Workplace etiquette is a set of communication practices that help colleagues coordinate respectfully. It includes punctuality, clarity, ownership, confidentiality, accessibility and awareness of time zones. Etiquette is context-dependent: a startup may use chat for quick decisions while a regulated team may require formal documentation.
+
+A useful professional email has a clear subject, brief context, specific request, deadline if needed, and courteous closing. Distinguish TO (action owner), CC (people who should be informed) and BCC (hidden recipients, used only for legitimate reasons). Avoid Reply All when only one person needs the response. Do not send confidential customer or employee data to personal email accounts.
+
+[EXAMPLE — EMAIL] Subject: Clarification on Friday's deliverable
+Hello,
+I have completed the data collection and started the report. Could you confirm whether the final deliverable should include the regional comparison? If yes, I will prioritize it before the summary slides.
+Thank you.
+
+For meetings, read the agenda, prepare relevant information, join on time, and record decisions, owners and deadlines. Ask permission before recording a meeting. If you cannot attend, notify the organizer early and provide an asynchronous update where appropriate. A meeting without a decision or useful exchange may be better handled by a documented message.
+
+In chat, be concise but not abrupt. State the task or question rather than sending only 'Hi' and waiting. Use threads and agreed channels to keep context searchable. Avoid assuming colleagues are available instantly, particularly across time zones. Mark urgency accurately.
+
+When discussing confidential work, use approved systems, restrict access to people who need it, and verify recipients before sharing links. Do not upload internal code, customer data, personal records or company documents into unapproved AI tools. Follow the employer's information-security policy.
+
+[EXAMPLE] 'Hi, I am blocked on the staging API credentials for Ticket 142. I checked the onboarding guide and requested access yesterday. Could the access owner confirm the next step? The release test is scheduled for 3 PM.'
+
+================================================================
+07 — WORKPLACE CONFLICTS, COMPLAINTS, HARASSMENT AND POSH
+================================================================
+[GUIDANCE] A workplace conflict may involve unclear responsibilities, communication styles, workload, conduct, or discrimination. Not every disagreement is misconduct. Begin by separating observable events from assumptions: what happened, when, who was present, what was said, and what work or safety impact resulted.
+
+For an ordinary work dispute, consider a respectful direct conversation if safe and appropriate. State the issue and requested change without insults. If unresolved, use the manager, skip-level manager, HR, employee relations or ethics channel as applicable. Preserve relevant emails and notes, but do not illegally record or distribute confidential information.
+
+Sexual harassment is different from an ordinary disagreement. In India, the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 creates a statutory prevention and redressal framework, including Internal and Local Committee mechanisms. Its statutory scope, complaint procedure, deadlines and confidentiality requirements must be checked against the Act and applicable rules. [OFFICIAL SOURCE: S4]
+
+A company may also have a broader anti-harassment policy covering people and conduct beyond the statutory POSH framework. Never imply that the statutory POSH Act is the only possible complaint route for every employee. A person facing threats or immediate danger should prioritize safety and contact appropriate emergency or law-enforcement services.
+
+[EXAMPLE] 'I would like to report repeated inappropriate comments made during team meetings on 3, 7 and 10 November. I have noted the words used and the attendees. Please tell me the appropriate confidential reporting process and how the organization protects against retaliation.'
+
+A complaint should distinguish what the employee personally witnessed from what they heard secondhand. Avoid promising confidentiality beyond the policy or law. Do not guarantee an investigation outcome, disciplinary action, or legal remedy.
+
+[GUIDANCE] When supporting a colleague, listen without interrogating them, avoid spreading details, encourage use of appropriate reporting channels, and do not pressure them into a particular action. Managers should not conduct an improvised investigation outside authorized procedures.
+
+================================================================
+08 — CAREER GROWTH, MENTORSHIP, INTERNAL TRANSFERS AND RESIGNATION
+================================================================
+[GUIDANCE] Career development involves building capabilities, seeking feedback, understanding role expectations and choosing opportunities that fit long-term goals. A development plan can include one technical skill, one collaboration skill, a practical project, and a date to review progress. It is useful to track outcomes rather than course certificates alone.
+
+A mentor offers advice based on experience; a sponsor actively advocates for opportunities. Neither necessarily has formal decision authority over your promotion. Ask mentors focused questions, respect their time and demonstrate follow-through.
+
+Internal transfer means moving to another team, function or location within the same organization. It may require manager approval, an internal application, tenure eligibility, or HR coordination. Do not assume an internal transfer automatically preserves all benefits or compensation terms; confirm the details in writing.
+
+Resignation is a formal notice of intent to leave. Before resigning, review the employment contract, notice requirements, benefits, confidentiality obligations, equipment-return process, final payroll and any training-bond or bonus-repayment clauses. Ask HR about the process rather than assuming an internet template fits your case.
+
+A handover should identify active tasks, status, upcoming deadlines, key stakeholders, links to approved documentation, and unresolved risks. Never transfer passwords or take confidential files for a personal portfolio. Exit interviews are an opportunity for constructive feedback but do not require sharing personal details irrelevant to the job.
+
+[EXAMPLE — RESIGNATION] 'Please accept this message as formal notice of my resignation from my position. As per my appointment letter, I understand the notice period is [period], subject to HR's confirmation of the final working date. I will document ongoing work and support a smooth handover.'
+
+[GUIDANCE] For a career gap, explain it factually, emphasize current skills and recent work, and avoid inventing employment history. A respectful departure protects professional relationships and future references.
+
+================================================================
+09 — INTERNSHIPS, STIPENDS, FEEDBACK AND FULL-TIME CONVERSION
+================================================================
+[GUIDANCE] An internship is a supervised learning and work opportunity. Its legal classification depends on the actual arrangement: a student internship, a formal apprenticeship, or an employment relationship may carry different rules. Do not assume that all interns have identical rights, wages or benefits. If the role is a statutory apprenticeship, verify the specific governing framework and contract.
+
+Before accepting, ask about duration, expected weekly hours, work location, stipend amount and payment schedule, reporting manager, learning objectives, equipment, confidentiality, intellectual property, leave and any conversion criteria. Be cautious about offers that require unexplained upfront fees or personal financial credentials.
+
+A good intern's weekly update states what was completed, what was learned, what is blocked and what help is needed. Ask for code reviews, task feedback or examples of successful work. Do not overstate contributions on a resume; distinguish individual work from team outcomes.
+
+Pre-placement offer (PPO) or full-time conversion means an employer offers a continuing role after an internship. Conversion is not automatic unless the agreement expressly guarantees it. Performance, business needs, budget and hiring approvals can all matter. Ask when the decision will be made and whether a separate interview is required.
+
+[EXAMPLE] 'I have completed the first two modules and submitted the tests. Could we schedule 15 minutes of feedback on code quality and identify one improvement target for next week?'
+
+If stipend payment is delayed, first confirm the agreed payment date and whether documents are pending. Raise the issue through official payroll/HR channels, keep a written record and avoid making unsupported legal claims about a particular internship category.
+
+[GUIDANCE] Portfolio material from an internship must respect confidentiality, licensing and company IP rules. Use anonymized, authorized descriptions instead of copying proprietary code or client data.
+
+================================================================
+10 — CORPORATE TERMINOLOGY AND HOW TO USE IT
+================================================================
+[GUIDANCE] These are common meanings, not standardized definitions across every employer. Ask your team how each term is used locally.
+
+KPI — Key Performance Indicator: a measure used to track a result or process, such as response time or defect rate. A KPI should have a clear definition, period and owner.
+OKR — Objectives and Key Results: an ambitious objective with measurable results that indicate progress. OKRs are not automatically individual compensation targets.
+KRA — Key Result Area: a broad outcome area for which a role is accountable.
+SLA — Service Level Agreement: a defined service commitment, often including response or resolution targets. A target may apply only during business hours or to specific ticket classes.
+SLO — Service Level Objective: a measurable reliability or service target used internally or within an agreement.
+EOD — End of Day: ambiguous across time zones; specify the date and timezone for important deadlines.
+EOW — End of Week: clarify the exact day and timezone.
+ETA — Estimated Time of Arrival/Completion: an estimate, not a guarantee. Update it when circumstances change.
+POC — Point of Contact: the person to approach for a particular question or process. It can also mean Proof of Concept in technical settings.
+PIP — Performance Improvement Plan: a formal performance improvement process, with terms depending on employer policy.
+PPO — Pre-Placement Offer: a full-time job offer potentially made after an internship or campus engagement.
+FTE — Full-Time Employee or Full-Time Equivalent: the intended meaning depends on context.
+CTC — Cost to Company: employer's estimated employment cost, not take-home pay.
+Gross Pay — pay before designated payroll deductions; check local payroll definitions.
+Net Pay — take-home amount after payroll deductions.
+TDS — Tax Deducted at Source: tax withheld where applicable under the relevant law.
+PF/EPF — Provident Fund/Employees' Provident Fund: statutory savings/social security arrangements for covered employment.
+ESI — Employees' State Insurance: a statutory social-insurance scheme for eligible covered workers; check current eligibility.
+HRBP — Human Resources Business Partner: HR professional aligned with a business unit.
+1:1 — One-on-one meeting between two people, often employee and manager.
+Skip-level meeting — meeting with a manager above one's direct manager.
+Stand-up — short team synchronization meeting, common in software teams.
+Retrospective — structured discussion of what worked, what did not, and improvements.
+Handover — transfer of task context, ownership and necessary documentation.
+Escalation — raising an issue to someone with the authority or expertise to resolve it.
+Stakeholder — person or group affected by or involved in a decision or project.
+Deliverable — agreed output, such as a report, feature or presentation.
+Bandwidth — informal term for available work capacity, not a fixed number of hours.
+Backlog — prioritized or unprioritized list of work awaiting attention.
+Blocker — an obstacle that prevents meaningful progress on a task.
+Action Item — a specific next step with an owner and preferably a due date.
+MoM — Minutes of Meeting: a written summary of discussion, decisions and actions.
+BAU — Business As Usual: routine ongoing operations.
+RACI — Responsible, Accountable, Consulted, Informed: a framework to clarify roles in a decision or process.
+NDA — Non-Disclosure Agreement: contractual confidentiality obligations; exact scope is contract-specific.
+IP — Intellectual Property: rights relating to creations, inventions, designs or code; ownership depends on law and agreements.
+PTO — Paid Time Off: umbrella term for paid leave; actual entitlement depends on policy and law.
+LOP — Loss of Pay: a payroll term often used when time off is unpaid; check employer policy and applicable law.
+
+[EXAMPLE] 'Please share the ETA by EOD' can be ambiguous for a distributed team. Better: 'Please send your estimated completion time by 5 PM IST on Friday.'
+
+================================================================
+11 — SCENARIO-BASED WORKPLACE DECISION FRAMEWORK
+================================================================
+[GUIDANCE] For an unfamiliar workplace scenario, a safe mentoring response should separate: (1) observed facts, (2) plausible interpretations, (3) missing context, (4) recommended professional action, (5) risks to avoid, and (6) when to seek HR, legal, safety or other specialized support. The assistant should avoid pretending to know the manager's motives.
+
+Scenario A — 'My manager keeps changing priorities.'
+Possible interpretations: business requirements changed, stakeholders disagree, or priority-setting is unclear. Ask which outcome is most urgent and document trade-offs. Proposed response: 'To meet the new deadline, should I pause the original task? I can send an updated plan once you confirm.' Avoid silently missing both deadlines.
+
+Scenario B — 'My manager criticized me in a meeting.'
+Possible interpretations: direct but clumsy feedback, legitimate quality concern, or a repeated disrespectful pattern. Ask for specific examples and a private feedback discussion. Keep a factual record if humiliating behavior repeats. Avoid claiming that a single criticism necessarily proves harassment.
+
+Scenario C — 'I received a PIP.'
+Ask for written goals, measurement criteria, support, review dates, and outcomes. Track progress and request clarifications. Consider seeking independent employment advice if there are contractual or legal concerns. Do not tell the employee that a PIP guarantees dismissal or guarantees retention.
+
+Scenario D — 'My stipend is late.'
+Review the offer letter and payment cycle, check whether onboarding paperwork is complete, then ask payroll/HR for the payment status in writing. If unresolved, seek advice specific to the internship's legal classification. Do not invent a universal deadline for all interns.
+
+Scenario E — 'A colleague is making sexual comments about me.'
+Prioritize immediate safety, preserve relevant evidence lawfully, and identify the organization's formal reporting options. In India, for a woman reporting workplace sexual harassment, the statutory POSH framework may be relevant; check the Act and its processes. Other people may have protections under employer policy and other applicable laws. [OFFICIAL SOURCE: S4]
+
+Scenario F — 'I am asked to share customer data with a public AI chatbot.'
+Do not upload confidential information into an unapproved service. Check the employer's AI and information-security policy; propose an approved internal tool or anonymized sample where permitted. Escalate if the request conflicts with mandatory security requirements.
+
+================================================================
+12 — KNOWLEDGE LIMITATIONS AND SAFE RETRIEVAL RULES
+================================================================
+[GUIDANCE] This knowledge base is educational. A production RAG assistant should answer with the most specific relevant document, cite it accurately, and distinguish company policy from general advice. It should ask for country/state, employer type, employment classification, contract terms and effective date when these details determine an entitlement.
+
+If a question asks 'How many paid leaves do I legally get?', the system must not invent a single number. It should explain that entitlement depends on location, classification and applicable laws, and request the missing context or point to official HR policy.
+
+If a question asks 'Is my manager legally allowed to fire me during probation?', the system must not issue a categorical yes/no without jurisdiction and contract facts. It should describe relevant considerations, recommend checking the appointment letter and applicable law, and suggest qualified advice when stakes are high.
+
+If a question asks 'What does KPI mean?', a short definition and an example are sufficient. Do not overwhelm simple terminology questions with legal caveats.
+
+If a question asks 'Write an email asking for feedback', provide a professional draft, label it as a suggested template, and do not cite a law as proof of wording.
+
+If the user's question is in Hindi or Hinglish, the response can be in that language while citing the English source accurately. Do not imply that translating the source creates a new legal interpretation. The application can perform language detection at query time; the corpus does not need fabricated Hindi translations to claim multilingual support.
+
+MAINTENANCE CHECKLIST
+- Review law-related entries whenever relevant notifications or rules change.
+- Record source URL, retrieval date, jurisdiction, and effective date in downstream metadata.
+- Keep employer-specific policies in a separate namespace from general workplace guidance.
+- Do not use the GitLab customer-support complaint document as proof of Indian employee grievance rights.
+- Mark original PDF transcriptions, externally sourced facts, and newly authored examples as different provenance types.
+- Validate citations against actual source text before exposing answers to users.
+
+END OF SUPPLEMENTARY KNOWLEDGE BASE
